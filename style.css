@@ -1,0 +1,42 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
+.text-center{
+    color: purple;
+}
+#main-heading{
+    font-weight: 700;
+    color: saddlebrown;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+    padding: 20px;
+}
+#sub-heading{
+    margin-top: 40px;
+    font-weight: 600;
+    color: teal;
+}
+.card{
+    padding: 20px;
+    margin: 50px;
+}
+#non-sub-header{
+    margin-top: 50px;
+    color: teal;
+}
+#another-header{
+    margin-top: 50px;
+    color: teal
+}
+.carousel slide{
+    padding: 50px;
+    margin: 50px;
+}
+.footer{
+    background-color: tomato;
+    font-size: medium;
+    color: white;
+    margin-top: 50px;
+}
